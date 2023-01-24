@@ -1,0 +1,37 @@
+.navbar-custom{
+    background-color: #f83680;
+}
+.container{
+    
+    margin-bottom: 100px;
+ 
+}
+.color-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+    
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #ff136f;
+}
+.submit-button{
+    background-image:linear-gradient(to bottom, #FF5B9B 0%,#FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+#whoweare{
+    height: 300px;
+}
+#whoweare h5{
+    color: black;
+}
